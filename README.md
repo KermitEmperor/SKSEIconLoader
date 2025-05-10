@@ -10,7 +10,7 @@ It can basically swap the Taskbar/Window Icon and Title at runtime.
 Easily configurable with the provided .ini file.
 
 After running Skyrim, once at the Main Menu, press the `~` key to open the game console.
-If the icon and/or app title didn't fail there should be an error message there!
+If the icon and/or app title didn't fail there should be a happy message there!
 
 # CommonLibSSE NG
 
