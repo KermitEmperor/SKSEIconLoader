@@ -18,6 +18,7 @@ Because this uses [CommonLibSSE NG](https://github.com/CharmedBaryon/CommonLibSS
 
 # Requirements
 
+- Windows (7?) 10/11, uses windows.h so i suspect it doesn't work on Linux/Mac, sorry penguin :(
 - [SKSE](https://www.nexusmods.com/skyrimspecialedition/mods/30379)
 - [Address Library for SKSE Plugins](https://www.nexusmods.com/skyrimspecialedition/mods/32444)
 
